@@ -23,7 +23,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VS Code" alt="VS Code" height="30"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/e9aaa4a9-886a-4be3-8846-98871b6726cb" title="Latex", alt="Latex" height="30"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/8a82c048-3003-4664-8950-709f76c91337" title="Linux" alt="Linux" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" height="30"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="git" alt="git" height="30"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" title="MySQL" alt="MySQL" height="30"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL" height="30"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/0cb9e961-b083-44dd-a7c1-790efa7c9618" title="C" alt="C" height="30"/>&nbsp;
