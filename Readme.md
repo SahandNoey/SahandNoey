@@ -12,7 +12,7 @@
 - 🏫 I'm currently a senior undergraduate student, studying Computer Engineering at the Amirkabir University of Technology(Tehran Polytechnic).
 
 ## Programming Languages, Technologies & Tools
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" height="30"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/b093e4fb-5270-4348-9517-f63e332e5d3c" title="Pytorch" alt="Pytorch" height="30"/>&nbsp;
