@@ -31,7 +31,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="git" alt="git" height="30"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" title="MySQL" alt="MySQL" height="30"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL" height="30"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C" alt="C" height="30"/>&nbsp;
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C" alt="C" height="30"/>&nbsp; -->
 <!--   <img src="https://github.com/user-attachments/assets/8de42de8-1036-4ade-b215-44517365c455" title="Java" alt="Java" height="30"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/f94e12f9-d9cb-43b3-946c-d7d4dbba5c48" title="Golang" alt="Golang" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" height="30"/>&nbsp;
