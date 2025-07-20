@@ -16,8 +16,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" height="30"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="Pytorch" alt="Pytorch" height="30"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="Tensorflow" alt="Tensorflow" height="30"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" height="30"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" title="Huggingface Transformers" alt="Huggingface Transformers" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" height="30"/>&nbsp;
