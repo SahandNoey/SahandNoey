@@ -41,8 +41,8 @@
   <img src="https://github.com/user-attachments/assets/61fae680-e160-4c92-b953-9437d030f84e" title="ElasticSearch" alt="ElasticSearch", height="30"/>&nbsp; -->
 </div>
 
-## GitHub Stats:
-<table border="0" cellspacing="0" cellpadding="0">
+
+<!-- <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=SahandNoey&show_icons=true&theme=algolia&hide_rank=True"/>
@@ -53,6 +53,7 @@
     </tr>
 </table>
 
-<p align="center">
+<p align="center"> -->
 
 - 📫 You can reach me by my [Email](mailto:sahandnoey7798@gmail.com).
+
