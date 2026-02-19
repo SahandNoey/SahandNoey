@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=B.Sc.+of+Computer+Engineering;Amirkabir+University+of+Technology;AI+%26+ML+Enthusiast)](https://github.com/SahandNoey)    
 </div>
 
-- 🏫 I'm currently a senior undergraduate student, studying Computer Engineering at Amirkabir University of Technology(Tehran Polytechnic).
+- 🏫 I'm a B.Sc. Graduate of Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic).
 
 ## Programming Languages, Technologies & Tools
 <div align="center">
@@ -56,4 +56,5 @@
 <p align="center"> -->
 
 - 📫 You can reach me by my [Email](mailto:sahandnoey7798@gmail.com).
+
 
