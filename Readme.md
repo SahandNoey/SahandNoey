@@ -6,12 +6,13 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=B.Sc.+of+Computer+Engineering;Amirkabir+University+of+Technology;AI+%26+ML+Enthusiast)](https://github.com/SahandNoey)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=B.Sc.+of+Computer+Engineering;Amirkabir+University+of+Technology)](https://github.com/SahandNoey)    
 </div>
+<!-- AI+%26+ML+Enthusiast -->
 
 - 🏫 I'm a B.Sc. Graduate of Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic).
 
-## Programming Languages, Technologies & Tools
+<!--## Programming Languages, Technologies & Tools
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" height="30"/>&nbsp;
