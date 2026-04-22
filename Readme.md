@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
     <h1>Welcome to my Github page</h1>
 </div>
 
@@ -41,7 +41,7 @@
   <img src="https://github.com/user-attachments/assets/61fae680-e160-4c92-b953-9437d030f84e" title="ElasticSearch" alt="ElasticSearch", height="30"/>&nbsp; -->
 </div>
 
-<!-- ## Github Stats:
+## Github Stats:
 <!-- <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
@@ -55,6 +55,6 @@
 
 <p align="center"> -->
 
-<!-- - 📫 You can reach me by my [Email](mailto:sahandnoey7798@gmail.com). -->
+- 📫 You can reach me by my [Email](mailto:sahandnoey7798@gmail.com).
 
 
